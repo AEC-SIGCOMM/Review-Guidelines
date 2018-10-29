@@ -1,5 +1,6 @@
 # Review-Guidelines
 
+## Introduction
 
 Our community has limited experience in such an evaluation, but artefacts are an important part of 
 many of the results described in the papers published in our 
@@ -48,4 +49,21 @@ reduced.
 Our objective is more to encourage the authors to 
 release their artefacts and improve their quality/reusability than 
 simply badging them.
+
+## Artefact Definition
+
+## The ACM Badging System
+
+### Artefact Available
+
+### Artefact Functional 
+
+### Artefact Reusable
+
+## Experience since the ACM SIGCOMM Reproducibility Workshop 2017
+
+## Discussion
+
+## Take Away
+
 
